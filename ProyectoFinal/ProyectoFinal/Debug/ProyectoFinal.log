@@ -1,0 +1,41 @@
+﻿  314221658_Reporte9_GPO12.cpp
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(385,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(421,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(422,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(423,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(747,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(831,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(832,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(836,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(837,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(839,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(840,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(851,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(863,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(875,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(887,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(909,24): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(919,24): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(930,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(940,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(941,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(951,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(961,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(962,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(972,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(981,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(990,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\ProyectoFinal\314221658_Reporte9_GPO12.cpp(1001,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+  ProyectoFinal.vcxproj -> C:\Users\hecto\Desktop\Repositorio\314221658_Proyecto_GPO12\ProyectoFinal\Debug\ProyectoFinal.exe
